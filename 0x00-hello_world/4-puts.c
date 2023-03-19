@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point of the program
  *
  * This function is the entry point of the program.

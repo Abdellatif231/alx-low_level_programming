@@ -1,8 +1,11 @@
 #include <stdio.h>
-/**
- * prints somthing using puts
+/*
+ * main - Entry point of the program
  *
- * ruturns: always Success
+ * This function is the entry point of the program.
+ *
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

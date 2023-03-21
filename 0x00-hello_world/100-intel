@@ -1,0 +1,2 @@
+#!/bin/bash
+touch $((`gcc -c $CFILE`))

@@ -1,2 +1,2 @@
 #!/bin/bash
-touch $((`gcc -S $CFILE`))
+touch $((`gcc -S -masm=intel $CFILE`))

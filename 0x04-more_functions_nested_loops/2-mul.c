@@ -2,7 +2,7 @@
 /**
 * mul - multiplies two integers
 * @a: first number
-* @b: secend number 
+* @b: secend number
 * Return: a * b
 */
 

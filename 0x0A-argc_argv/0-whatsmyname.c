@@ -3,7 +3,7 @@
 * main - print the name of the programe
 * @argc: argument count
 * @argv: argument vector
-* Retunr: Always 0 (success)
+* Return: Always 0 (Success)
 */
 
 int main(int argc, char *argv[])
